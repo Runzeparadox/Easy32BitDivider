@@ -1,0 +1,32 @@
+/* styles.css */
+
+
+body {
+    -fx-font-family: 'Arial';
+    -fx-background-color: #0055A4; /* Blue color for the French flag */
+    -fx-text-fill: white;
+}
+
+.label {
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #ffffff;
+}
+
+.text-field {
+    -fx-font-size: 25px;
+    -fx-background-color: #ffffff;
+    -fx-text-fill: #121212;
+}
+
+.password-field {
+    -fx-font-size: 25px;
+    -fx-background-color: #gray;
+    -fx-text-fill: #121212;
+}
+
+.button {
+    -fx-font-size: 25px;
+    -fx-background-color: #EF3340; /* Red color for the French flag */
+    -fx-text-fill: #ffffff;
+}
